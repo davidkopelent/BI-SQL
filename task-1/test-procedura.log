@@ -1,0 +1,35 @@
+KOPELDAV> BEGIN
+              GETANCESTORS('Iason', 'male');
+              GETANCESTORS('Iason', 'female');
+              GETANCESTORS('Iason', 'both');
+              GETANCESTORS('Zoran', 'both');
+              GETANCESTORS('Celestyn', 'both');
+          END;
+[2024-04-01 14:48:32] completed in 13 ms
+Muzska rodova linie vydry Iason
+--------------------------
+Iason(1)
+Ringo(2)
+Nestor(3)
+--------------------------
+Zenska rodova linie vydry Iason
+--------------------------
+Iason(1)
+Lilien(2)
+Malvina(3)
+--------------------------
+Cela rodova linie vydry Iason
+--------------------------
+Iason(1)
+Lilien(2)
+Ringo(2)
+Malvina(3)
+Jarmila(3)
+Nestor(3)
+Nestor(3)
+--------------------------
+Cela rodova linie vydry Zoran
+--------------------------
+Zoran(1)
+--------------------------
+No data found for Celestyn
